@@ -22,3 +22,5 @@ neo4ind:graphql3502 neo4voc:name "Neo4j-GraphQL" ;
 neo4ind:neo4j355 neo4voc:name "neo4j" ;
 			   a neo4voc:GraphPlatform , neo4voc:AwesomePlatform ;
 			   neo4voc:version "3.5.5" .
+
+
